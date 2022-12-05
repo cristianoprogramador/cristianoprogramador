@@ -22,7 +22,6 @@ I am a <i>Full-Stack Developer</i>. Born in <strong>Brazil</strong>. As an <i>au
 - 📝   Download my [CV/Resume](https://cristianosilvadev.com/static/media/cv2.4f8b45f0c90780f6dec4.pdf)
 <br>
 
-![Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianoprogramador&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoprogramador)
 
