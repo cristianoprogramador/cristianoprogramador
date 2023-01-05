@@ -23,7 +23,6 @@ I am a <i>Full-Stack Developer</i>. Born in <strong>Brazil</strong>. As an <i>au
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoprogramador)
 
 <br>
 
