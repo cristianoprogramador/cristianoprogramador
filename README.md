@@ -42,6 +42,7 @@ I am a <i>Full-Stack Developer</i>. Born in <strong>Brazil</strong>. As an <i>au
 ![Git](https://img.shields.io/badge/-Git-black?style=round-square&logo=git)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=round-square&logo=tailwindcss&logoColor=blue)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=round-square&logo=next.js&logoColor=white)
 
 
