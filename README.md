@@ -19,7 +19,7 @@ I am a <i>Full-Stack Developer</i>. Born in <strong>Brazil</strong>. As an <i>au
 - 🏘  Located in Ribeirão Preto, São Paulo / Brazil.
 - 😄   Open to full-time or part-time positions 
 - ⌨️  Passionate about software development, writing code, and making things happen.
-- 📝   Download my [CV/Resume](https://cristianosilvadev.com/static/media/cv2.4f8b45f0c90780f6dec4.pdf)
+- 📝   Download my [CV/Resume](https://cristianosilvadev.com/static/media/lastcv.79deb885f43704e3ef56.pdf)
 <br>
 
 
