@@ -19,7 +19,6 @@ I am a <i>Full-Stack Developer</i>. Born in <strong>Brazil</strong>. As an <i>au
 - 🏘  Located in Ribeirão Preto, São Paulo / Brazil.
 - 😄   Open to full-time or part-time positions 
 - ⌨️  Passionate about software development, writing code, and making things happen.
-- 📝   Download my [CV/Resume](https://cristianosilvadev.com/static/media/CV-updated.988de26d3166fdf94038.pdf)
 <br>
 
 
@@ -44,7 +43,7 @@ I am a <i>Full-Stack Developer</i>. Born in <strong>Brazil</strong>. As an <i>au
 ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-000000?logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=round-square&logo=next.js&logoColor=white)
-
+![Ruby](https://img.shields.io/badge/-Ruby-darkred)
 
 
 ---
